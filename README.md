@@ -1,6 +1,11 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">Code. Break. Secure. Repeat. | Programmer & Ethical hacker</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-bustillos-213930355/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 <table align="center">
 <tr border="none">
@@ -9,7 +14,6 @@
 - 🧑‍🎓 I’m a computer science engineer
 - 🔭 I’m currently working on Skills
 - 📚 Learning everything about cybersecurity and programming
-- You can connect me for anything, I'll be happy to help! [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bustillos-213930355/)
 
 </td>
 <td width="50%" align="center">
